@@ -1,6 +1,3 @@
-Hi, I'm rowan.
-You'll find some of my open source work on here which I may commit to updating from time to time!
-
 https://rowan.pages.dev
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
